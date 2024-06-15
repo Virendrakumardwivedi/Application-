@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.test.LowercaseMonthDateFormatterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-06-15T04:32:39" hostname="LAPTOP-TA76DARU" time="0.005">
+  <properties/>
+  <testcase name="testParse()" classname="com.example.demo.test.LowercaseMonthDateFormatterTest" time="0.002"/>
+  <testcase name="testPrint()" classname="com.example.demo.test.LowercaseMonthDateFormatterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

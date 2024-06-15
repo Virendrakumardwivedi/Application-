@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.test.CustomLocalDateDeserializerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-15T04:32:39" hostname="LAPTOP-TA76DARU" time="0.315">
+  <properties/>
+  <testcase name="testDeserialize()" classname="com.example.demo.test.CustomLocalDateDeserializerTest" time="0.315"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
